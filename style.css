@@ -1,0 +1,10 @@
+body{
+	display: flex;
+	justify-content: center;
+}
+#image {
+  height: 45px;
+  width: 100px;
+background: 
+url('images/B_witch_attack.png') 0px 0px;
+}
